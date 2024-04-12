@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tymanskaya-homework-front-main01/static/css/main.073c9b0a.css",
-    "main.js": "/tymanskaya-homework-front-main01/static/js/main.ec1a7214.js",
+    "main.css": "/tymanskaya-homework-front-main01/static/css/main.af2f1d43.css",
+    "main.js": "/tymanskaya-homework-front-main01/static/js/main.1fd30437.js",
     "static/js/787.177e23c2.chunk.js": "/tymanskaya-homework-front-main01/static/js/787.177e23c2.chunk.js",
     "index.html": "/tymanskaya-homework-front-main01/index.html",
-    "main.073c9b0a.css.map": "/tymanskaya-homework-front-main01/static/css/main.073c9b0a.css.map",
-    "main.ec1a7214.js.map": "/tymanskaya-homework-front-main01/static/js/main.ec1a7214.js.map",
+    "main.af2f1d43.css.map": "/tymanskaya-homework-front-main01/static/css/main.af2f1d43.css.map",
+    "main.1fd30437.js.map": "/tymanskaya-homework-front-main01/static/js/main.1fd30437.js.map",
     "787.177e23c2.chunk.js.map": "/tymanskaya-homework-front-main01/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ec1a7214.js"
+    "static/css/main.af2f1d43.css",
+    "static/js/main.1fd30437.js"
   ]
 }
